@@ -4,3 +4,6 @@
 [submodule "modules/metric3d"]
 	path = modules/metric3d
 	url = https://github.com/YvanYin/Metric3D
+[submodule "modules/Unidepth"]
+	path = modules/Unidepth
+	url = https://github.com/lpiccinelli-eth/UniDepth.git
